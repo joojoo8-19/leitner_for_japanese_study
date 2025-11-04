@@ -45,3 +45,16 @@ def get_cards_for_today():
         elif box == 5 and random.random() < 0.05:
             today_cards.append(card)
     return today_cards
+
+def start_study():
+    today_cards = get_cards_for_today()
+    random.shuffle(today_cards)
+
+    ui = Ui(today_cards=today_cards, progress=progress)
+    ui.draw()
+
+    # 진행상황 저장
+    with open(PROGRESS_FILE, mode="w", encoding="utf-8") as f:
+        json.dump(progress, f, ensure_ascii=False, indent=2)
+
+start_study()
