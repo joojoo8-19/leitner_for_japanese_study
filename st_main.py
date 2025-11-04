@@ -36,9 +36,7 @@ def get_cards_for_today():
             today.append(card)
         elif box == 5 and random.random() < 0.05:
             today.append(card)
-    random.shuffle(today)
     return today
-
 
 # ====== UI ======
 st.title("🇯🇵 100 Japanese Sentences with Leitner System")
