@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "korean": "공항이 어디예요?",
+    "english": "Where is the airport?",
+    "japanese": "空港はどこですか？",
+    "pronunciation_hiragana": "くうこうはどこですか？",
+    "pronunciation_romaji": "kuukou wa doko desu ka?"
+  },
+  {
+    "id": 2,
+    "korean": "택시 타는 곳이 어디예요?",
+    "english": "Where is the taxi stand?",
+    "japanese": "タクシー乗り場はどこですか？",
+    "pronunciation_hiragana": "たくしーのりばはどこですか？",
+    "pronunciation_romaji": "takushii noriba wa doko desu ka?"
+  },
+  {
+    "id": 3,
+    "korean": "이 주소까지 부탁드려요.",
+    "english": "Please take me to this address.",
+    "japanese": "この住所までお願いします。",
+    "pronunciation_hiragana": "このじゅうしょまでおねがいします。",
+    "pronunciation_romaji": "kono juusho made onegai shimasu."
+  },
+  {
+    "id": 4,
+    "korean": "체크인 부탁드립니다.",
+    "english": "Check-in, please.",
+    "japanese": "チェックインをお願いします。",
+    "pronunciation_hiragana": "ちぇっくいんをおねがいします。",
+    "pronunciation_romaji": "chekkuin wo onegai shimasu."
+  },
+  {
+    "id": 5,
+    "korean": "체크아웃은 몇 시인가요?",
+    "english": "What time is check-out?",
+    "japanese": "チェックアウトは何時ですか？",
+    "pronunciation_hiragana": "ちぇっくあうとはなんじですか？",
+    "pronunciation_romaji": "chekkuauto wa nanji desu ka?"
+  },
+  {
+    "id": 6,
+    "korean": "여권을 보여주세요.",
+    "english": "Please show me your passport.",
+    "japanese": "パスポートを見せてください。",
+    "pronunciation_hiragana": "ぱすぽーとをみせてください。",
+    "pronunciation_romaji": "pasupooto wo misete kudasai."
+  },
+  {
+    "id": 7,
+    "korean": "와이파이 쓸 수 있나요?",
+    "english": "Can I use Wi-Fi?",
+    "japanese": "Wi-Fiは使えますか？",
+    "pronunciation_hiragana": "わいふぁいはつかえますか？",
+    "pronunciation_romaji": "waifai wa tsukaemasu ka?"
+  },
+  {
+    "id": 8,
+    "korean": "짐 맡길 수 있나요?",
+    "english": "Can I leave my luggage?",
+    "japanese": "荷物を預けてもいいですか？",
+    "pronunciation_hiragana": "にもつをあずけてもいいですか？",
+    "pronunciation_romaji": "nimotsu wo azuketemo ii desu ka?"
+  },
+  {
+    "id": 9,
+    "korean": "방에 문제가 있어요.",
+    "english": "There is a problem with the room.",
+    "japanese": "部屋に問題があります。",
+    "pronunciation_hiragana": "へやにもんだいがあります。",
+    "pronunciation_romaji": "heya ni mondai ga arimasu."
+  },
+  {
+    "id": 10,
+    "korean": "샤워가 안 나와요.",
+    "english": "The shower doesn't work.",
+    "japanese": "シャワーが出ません。",
+    "pronunciation_hiragana": "しゃわーがでません。",
+    "pronunciation_romaji": "shawaa ga demasen."
+  },
+  {
+    "id": 11,
+    "korean": "실례합니다, 주문할게요.",
+    "english": "Excuse me, I'd like to order.",
+    "japanese": "すみません、注文いいですか？",
+    "pronunciation_hiragana": "すみません、ちゅうもんいいですか？",
+    "pronunciation_romaji": "sumimasen, chuumon ii desu ka?"
+  },
+  {
+    "id": 12,
+    "korean": "추천 메뉴는 뭐예요?",
+    "english": "What do you recommend?",
+    "japanese": "おすすめは何ですか？",
+    "pronunciation_hiragana": "おすすめはなんですか？",
+    "pronunciation_romaji": "osusume wa nan desu ka?"
+  },
+  {
+    "id": 13,
+    "korean": "이걸로 주세요.",
+    "english": "I'll have this.",
+    "japanese": "これをください。",
+    "pronunciation_hiragana": "これをください。",
+    "pronunciation_romaji": "kore wo kudasai."
+  },
+  {
+    "id": 14,
+    "korean": "~하나 주세요.",
+    "english": "One ~, please.",
+    "japanese": "〜を一つください。",
+    "pronunciation_hiragana": "〜をひとつください。",
+    "pronunciation_romaji": "~ wo hitotsu kudasai."
+  },
+  {
+    "id": 15,
+    "korean": "물 주세요.",
+    "english": "Water, please.",
+    "japanese": "水をください。",
+    "pronunciation_hiragana": "みずをください。",
+    "pronunciation_romaji": "mizu wo kudasai."
+  },
+  {
+    "id": 16,
+    "korean": "매운가요?",
+    "english": "Is it spicy?",
+    "japanese": "辛いですか？",
+    "pronunciation_hiragana": "からいですか？",
+    "pronunciation_romaji": "karai desu ka?"
+  },
+  {
+    "id": 17,
+    "korean": "계산이요.",
+    "english": "Check, please.",
+    "japanese": "お会計お願いします。",
+    "pronunciation_hiragana": "おかいけいおねがいします。",
+    "pronunciation_romaji": "okaikei onegai shimasu."
+  },
+  {
+    "id": 18,
+    "korean": "따로 계산해주세요.",
+    "english": "Separate checks, please.",
+    "japanese": "別々でお願いします。",
+    "pronunciation_hiragana": "べつべつでおねがいします。",
+    "pronunciation_romaji": "betsubetsu de onegai shimasu."
+  },
+  {
+    "id": 19,
+    "korean": "맛있었어요!",
+    "english": "It was delicious!",
+    "japanese": "美味しかったです！",
+    "pronunciation_hiragana": "おいしかったです！",
+    "pronunciation_romaji": "oishikatta desu!"
+  },
+  {
+    "id": 20,
+    "korean": "포장 가능해요?",
+    "english": "Can I get it to go?",
+    "japanese": "持ち帰りできますか？",
+    "pronunciation_hiragana": "もちかえりできますか？",
+    "pronunciation_romaji": "mochikaeri dekimasu ka?"
+  },
+  {
+    "id": 21,
+    "korean": "얼마예요?",
+    "english": "How much is it?",
+    "japanese": "いくらですか？",
+    "pronunciation_hiragana": "いくらですか？",
+    "pronunciation_romaji": "ikura desu ka?"
+  },
+  {
+    "id": 22,
+    "korean": "좀 더 싸게 안 되나요?",
+    "english": "Can you make it a bit cheaper?",
+    "japanese": "もう少し安くなりませんか？",
+    "pronunciation_hiragana": "もうすこしやすくなりませんか？",
+    "pronunciation_romaji": "mou sukoshi yasuku narimasen ka?"
+  },
+  {
+    "id": 23,
+    "korean": "입어봐도 돼요?",
+    "english": "Can I try it on?",
+    "japanese": "試着できますか？",
+    "pronunciation_hiragana": "しちゃくできますか？",
+    "pronunciation_romaji": "shichaku dekimasu ka?"
+  },
+  {
+    "id": 24,
+    "korean": "이거 사이즈 있나요?",
+    "english": "Do you have this size?",
+    "japanese": "これ、サイズありますか？",
+    "pronunciation_hiragana": "これ、さいずありますか？",
+    "pronunciation_romaji": "kore, saizu arimasu ka?"
+  },
+  {
+    "id": 25,
+    "korean": "카드 쓸 수 있나요?",
+    "english": "Can I use a credit card?",
+    "japanese": "クレジットカード使えますか？",
+    "pronunciation_hiragana": "くれじっとかーどつかえますか？",
+    "pronunciation_romaji": "kurejittokaado tsukaemasu ka?"
+  },
+  {
+    "id": 26,
+    "korean": "현금으로 낼게요.",
+    "english": "I'll pay in cash.",
+    "japanese": "現金で払います。",
+    "pronunciation_hiragana": "げんきんではらいます。",
+    "pronunciation_romaji": "genkin de haraimasu."
+  },
+  {
+    "id": 27,
+    "korean": "영수증 주세요.",
+    "english": "Receipt, please.",
+    "japanese": "領収書ください。",
+    "pronunciation_hiragana": "りょうしゅうしょください。",
+    "pronunciation_romaji": "ryoushuusho kudasai."
+  },
+  {
+    "id": 28,
+    "korean": "그냥 보고 있어요.",
+    "english": "I'm just looking.",
+    "japanese": "見ているだけです。",
+    "pronunciation_hiragana": "みているだけです。",
+    "pronunciation_romaji": "miteiru dake desu."
+  },
+  {
+    "id": 29,
+    "korean": "봉투 필요하세요?",
+    "english": "Do you need a bag?",
+    "japanese": "袋いりますか？",
+    "pronunciation_hiragana": "ふくろいりますか？",
+    "pronunciation_romaji": "fukuro irimasu ka?"
+  },
+  {
+    "id": 30,
+    "korean": "괜찮아요, 필요 없어요.",
+    "english": "It's okay, I don't need it.",
+    "japanese": "大丈夫です、いりません。",
+    "pronunciation_hiragana": "だいじょうぶです、いりません。",
+    "pronunciation_romaji": "daijoubu desu, irimasen."
+  },
+  {
+    "id": 31,
+    "korean": "역이 어디예요?",
+    "english": "Where is the station?",
+    "japanese": "駅はどこですか？",
+    "pronunciation_hiragana": "えきはどこですか？",
+    "pronunciation_romaji": "eki wa doko desu ka?"
+  },
+  {
+    "id": 32,
+    "korean": "이 버스 나하 가나요?",
+    "english": "Does this bus go to Naha?",
+    "japanese": "このバスは那覇に行きますか？",
+    "pronunciation_hiragana": "このばすはなはにいきますか？",
+    "pronunciation_romaji": "kono basu wa naha ni ikimasu ka?"
+  },
+  {
+    "id": 33,
+    "korean": "다음 정류장은 어디예요?",
+    "english": "Where is the next stop?",
+    "japanese": "次の停留所はどこですか？",
+    "pronunciation_hiragana": "つぎのていりゅうじょはどこですか？",
+    "pronunciation_romaji": "tsugi no teiryuujo wa doko desu ka?"
+  },
+  {
+    "id": 34,
+    "korean": "여기서 내릴게요.",
+    "english": "I'll get off here.",
+    "japanese": "ここで降ります。",
+    "pronunciation_hiragana": "ここでおります。",
+    "pronunciation_romaji": "koko de orimasu."
+  },
+  {
+    "id": 35,
+    "korean": "시간표 있나요?",
+    "english": "Do you have a timetable?",
+    "japanese": "時刻表はありますか？",
+    "pronunciation_hiragana": "じこくひょうはありますか？",
+    "pronunciation_romaji": "jikokuhyou wa arimasu ka?"
+  },
+  {
+    "id": 36,
+    "korean": "표 주세요.",
+    "english": "Ticket, please.",
+    "japanese": "切符をください。",
+    "pronunciation_hiragana": "きっぷをください。",
+    "pronunciation_romaji": "kippu wo kudasai."
+  },
+  {
+    "id": 37,
+    "korean": "편도입니까 왕복입니까?",
+    "english": "One-way or round-trip?",
+    "japanese": "片道ですか、往復ですか？",
+    "pronunciation_hiragana": "かたみちですか、おうふくですか？",
+    "pronunciation_romaji": "katamichi desu ka, oufuku desu ka?"
+  },
+  {
+    "id": 38,
+    "korean": "택시 불러주세요.",
+    "english": "Please call a taxi.",
+    "japanese": "タクシー呼んでください。",
+    "pronunciation_hiragana": "たくしーよんでください。",
+    "pronunciation_romaji": "takushii yonde kudasai."
+  },
+  {
+    "id": 39,
+    "korean": "가까워요?",
+    "english": "Is it close?",
+    "japanese": "近いですか？",
+    "pronunciation_hiragana": "ちかいですか？",
+    "pronunciation_romaji": "chikai desu ka?"
+  },
+  {
+    "id": 40,
+    "korean": "멀어요?",
+    "english": "Is it far?",
+    "japanese": "遠いですか？",
+    "pronunciation_hiragana": "とおいですか？",
+    "pronunciation_romaji": "tooi desu ka?"
+  },
+  {
+    "id": 41,
+    "korean": "사진 찍어도 돼요?",
+    "english": "Can I take a photo?",
+    "japanese": "写真を撮ってもいいですか？",
+    "pronunciation_hiragana": "しゃしんをとってもいいですか？",
+    "pronunciation_romaji": "shashin wo tottemo ii desu ka?"
+  },
+  {
+    "id": 42,
+    "korean": "같이 찍어주실 수 있나요?",
+    "english": "Can you take a photo with me?",
+    "japanese": "一緒に撮ってもらえますか？",
+    "pronunciation_hiragana": "いっしょにとってもらえますか？",
+    "pronunciation_romaji": "issho ni totte moraemasu ka?"
+  },
+  {
+    "id": 43,
+    "korean": "티켓은 어디서 살 수 있나요?",
+    "english": "Where can I buy tickets?",
+    "japanese": "チケットはどこで買えますか？",
+    "pronunciation_hiragana": "ちけっとはどこでかえますか？",
+    "pronunciation_romaji": "chiketto wa doko de kaemasu ka?"
+  },
+  {
+    "id": 44,
+    "korean": "몇 시에 열어요?",
+    "english": "What time does it open?",
+    "japanese": "何時に開きますか？",
+    "pronunciation_hiragana": "なんじにあきますか？",
+    "pronunciation_romaji": "nanji ni akimasu ka?"
+  },
+  {
+    "id": 45,
+    "korean": "몇 시에 닫아요?",
+    "english": "What time does it close?",
+    "japanese": "何時に閉まりますか？",
+    "pronunciation_hiragana": "なんじにしまりますか？",
+    "pronunciation_romaji": "nanji ni shimarimasu ka?"
+  },
+  {
+    "id": 46,
+    "korean": "바다까지 어떻게 가요?",
+    "english": "How do I get to the beach?",
+    "japanese": "海までどうやって行きますか？",
+    "pronunciation_hiragana": "うみまでどうやっていきますか？",
+    "pronunciation_romaji": "umi made douyatte ikimasu ka?"
+  },
+  {
+    "id": 47,
+    "korean": "입장료 얼마예요?",
+    "english": "How much is the admission fee?",
+    "japanese": "入場料はいくらですか？",
+    "pronunciation_hiragana": "にゅうじょうりょうはいくらですか？",
+    "pronunciation_romaji": "nyuujouryou wa ikura desu ka?"
+  },
+  {
+    "id": 48,
+    "korean": "날씨 어때요?",
+    "english": "How's the weather?",
+    "japanese": "天気予報はどうですか？",
+    "pronunciation_hiragana": "てんきよほうはどうですか？",
+    "pronunciation_romaji": "tenkiyohou wa dou desu ka?"
+  },
+  {
+    "id": 49,
+    "korean": "선크림 사고 싶어요.",
+    "english": "I want to buy sunscreen.",
+    "japanese": "日焼け止めを買いたいです。",
+    "pronunciation_hiragana": "ひやけどめをかいたいです。",
+    "pronunciation_romaji": "hiyakedome wo kaitai desu."
+  },
+  {
+    "id": 50,
+    "korean": "화장실 어디예요?",
+    "english": "Where is the restroom?",
+    "japanese": "トイレはどこですか？",
+    "pronunciation_hiragana": "といれはどこですか？",
+    "pronunciation_romaji": "toire wa doko desu ka?"
+  },
+  {
+    "id": 51,
+    "korean": "처음 뵙겠습니다.",
+    "english": "Nice to meet you.",
+    "japanese": "はじめまして。",
+    "pronunciation_hiragana": "はじめまして。",
+    "pronunciation_romaji": "hajimemashite."
+  },
+  {
+    "id": 52,
+    "korean": "잘 부탁드립니다.",
+    "english": "Please treat me well.",
+    "japanese": "よろしくお願いします。",
+    "pronunciation_hiragana": "よろしくおねがいします。",
+    "pronunciation_romaji": "yoroshiku onegai shimasu."
+  },
+  {
+    "id": 53,
+    "korean": "한국에서 왔어요.",
+    "english": "I'm from Korea.",
+    "japanese": "韓国から来ました。",
+    "pronunciation_hiragana": "かんこくからきました。",
+    "pronunciation_romaji": "kankoku kara kimashita."
+  },
+  {
+    "id": 54,
+    "korean": "이름이 뭐예요?",
+    "english": "What's your name?",
+    "japanese": "お名前は何ですか？",
+    "pronunciation_hiragana": "おなまえはなんですか？",
+    "pronunciation_romaji": "onamae wa nan desu ka?"
+  },
+  {
+    "id": 55,
+    "korean": "잘 지내세요?",
+    "english": "How are you?",
+    "japanese": "お元気ですか？",
+    "pronunciation_hiragana": "おげんきですか？",
+    "pronunciation_romaji": "ogenki desu ka?"
+  },
+  {
+    "id": 56,
+    "korean": "잘 지내요!",
+    "english": "I'm doing well!",
+    "japanese": "元気です！",
+    "pronunciation_hiragana": "げんきです！",
+    "pronunciation_romaji": "genki desu!"
+  },
+  {
+    "id": 57,
+    "korean": "몇 살이에요?",
+    "english": "How old are you?",
+    "japanese": "おいくつですか？",
+    "pronunciation_hiragana": "おいくつですか？",
+    "pronunciation_romaji": "oikutsu desu ka?"
+  },
+  {
+    "id": 58,
+    "korean": "사진 찍어도 돼요?",
+    "english": "Can I take a photo?",
+    "japanese": "写真を撮ってもいいですか？",
+    "pronunciation_hiragana": "しゃしんをとってもいいですか？",
+    "pronunciation_romaji": "shashin wo tottemo ii desu ka?"
+  },
+  {
+    "id": 59,
+    "korean": "일본어 조금만 할 수 있어요.",
+    "english": "I can speak a little Japanese.",
+    "japanese": "日本語は少しだけ話せます。",
+    "pronunciation_hiragana": "にほんごはすこしだけはなせます。",
+    "pronunciation_romaji": "nihongo wa sukoshi dake hanasemasu."
+  },
+  {
+    "id": 60,
+    "korean": "영어 할 수 있나요?",
+    "english": "Can you speak English?",
+    "japanese": "英語話せますか？",
+    "pronunciation_hiragana": "えいごはなせますか？",
+    "pronunciation_romaji": "eigo hanasemasu ka?"
+  },
+  {
+    "id": 61,
+    "korean": "도와주세요!",
+    "english": "Help me!",
+    "japanese": "助けてください！",
+    "pronunciation_hiragana": "たすけてください！",
+    "pronunciation_romaji": "tasukete kudasai!"
+  },
+  {
+    "id": 62,
+    "korean": "병원이 어디예요?",
+    "english": "Where is the hospital?",
+    "japanese": "病院はどこですか？",
+    "pronunciation_hiragana": "びょういんはどこですか？",
+    "pronunciation_romaji": "byouin wa doko desu ka?"
+  },
+  {
+    "id": 63,
+    "korean": "몸이 안 좋아요.",
+    "english": "I don't feel well.",
+    "japanese": "気分が悪いです。",
+    "pronunciation_hiragana": "きぶんがわるいです。",
+    "pronunciation_romaji": "kibun ga warui desu."
+  },
+  {
+    "id": 64,
+    "korean": "지갑을 잃어버렸어요.",
+    "english": "I lost my wallet.",
+    "japanese": "財布をなくしました。",
+    "pronunciation_hiragana": "さいふをなくしました。",
+    "pronunciation_romaji": "saifu wo nakushimashita."
+  },
+  {
+    "id": 65,
+    "korean": "경찰 불러주세요.",
+    "english": "Please call the police.",
+    "japanese": "警察を呼んでください。",
+    "pronunciation_hiragana": "けいさつをよんでください。",
+    "pronunciation_romaji": "keisatsu wo yonde kudasai."
+  },
+  {
+    "id": 66,
+    "korean": "다쳤어요.",
+    "english": "I'm injured.",
+    "japanese": "怪我をしました。",
+    "pronunciation_hiragana": "けがをしました。",
+    "pronunciation_romaji": "kega wo shimashita."
+  },
+  {
+    "id": 67,
+    "korean": "열이 있어요.",
+    "english": "I have a fever.",
+    "japanese": "熱があります。",
+    "pronunciation_hiragana": "ねつがあります。",
+    "pronunciation_romaji": "netsu ga arimasu."
+  },
+  {
+    "id": 68,
+    "korean": "길을 잃었어요.",
+    "english": "I'm lost.",
+    "japanese": "道に迷いました。",
+    "pronunciation_hiragana": "みちにまよいました。",
+    "pronunciation_romaji": "michi ni mayoimashita."
+  },
+  {
+    "id": 69,
+    "korean": "물건을 떨어뜨렸어요.",
+    "english": "I dropped something.",
+    "japanese": "落とし物をしました。",
+    "pronunciation_hiragana": "おとしものをしました。",
+    "pronunciation_romaji": "otoshimono wo shimashita."
+  },
+  {
+    "id": 70,
+    "korean": "화장실 급해요.",
+    "english": "I need to use the restroom urgently.",
+    "japanese": "トイレが急です。",
+    "pronunciation_hiragana": "といれがきゅうです。",
+    "pronunciation_romaji": "toire ga kyuu desu."
+  },
+  {
+    "id": 71,
+    "korean": "귀엽다!",
+    "english": "Cute!",
+    "japanese": "かわいい！",
+    "pronunciation_hiragana": "かわいい！",
+    "pronunciation_romaji": "kawaii!"
+  },
+  {
+    "id": 72,
+    "korean": "예쁘다!",
+    "english": "Beautiful!",
+    "japanese": "きれい！",
+    "pronunciation_hiragana": "きれい！",
+    "pronunciation_romaji": "kirei!"
+  },
+  {
+    "id": 73,
+    "korean": "대단하다!",
+    "english": "Amazing!",
+    "japanese": "すごい！",
+    "pronunciation_hiragana": "すごい！",
+    "pronunciation_romaji": "sugoi!"
+  },
+  {
+    "id": 74,
+    "korean": "재밌다!",
+    "english": "Interesting!",
+    "japanese": "おもしろい！",
+    "pronunciation_hiragana": "おもしろい！",
+    "pronunciation_romaji": "omoshiroi!"
+  },
+  {
+    "id": 75,
+    "korean": "덥네요.",
+    "english": "It's hot.",
+    "japanese": "暑いですね。",
+    "pronunciation_hiragana": "あついですね。",
+    "pronunciation_romaji": "atsui desu ne."
+  },
+  {
+    "id": 76,
+    "korean": "시원하네요.",
+    "english": "It's cool.",
+    "japanese": "涼しいですね。",
+    "pronunciation_hiragana": "すずしいですね。",
+    "pronunciation_romaji": "suzushii desu ne."
+  },
+  {
+    "id": 77,
+    "korean": "졸려요.",
+    "english": "I'm sleepy.",
+    "japanese": "眠いです。",
+    "pronunciation_hiragana": "ねむいです。",
+    "pronunciation_romaji": "nemui desu."
+  },
+  {
+    "id": 78,
+    "korean": "배고파요.",
+    "english": "I'm hungry.",
+    "japanese": "お腹がすきました。",
+    "pronunciation_hiragana": "おなかがすきました。",
+    "pronunciation_romaji": "onaka ga sukimashita."
+  },
+  {
+    "id": 79,
+    "korean": "목말라요.",
+    "english": "I'm thirsty.",
+    "japanese": "喉が渇きました。",
+    "pronunciation_hiragana": "のどがかわきました。",
+    "pronunciation_romaji": "nodo ga kawakimashita."
+  },
+  {
+    "id": 80,
+    "korean": "피곤해요.",
+    "english": "I'm tired.",
+    "japanese": "疲れました。",
+    "pronunciation_hiragana": "つかれました。",
+    "pronunciation_romaji": "tsukaremashita."
+  },
+  {
+    "id": 81,
+    "korean": "오늘 며칠이에요?",
+    "english": "What's the date today?",
+    "japanese": "今日は何日ですか？",
+    "pronunciation_hiragana": "きょうはなんにちですか？",
+    "pronunciation_romaji": "kyou wa nannichi desu ka?"
+  },
+  {
+    "id": 82,
+    "korean": "지금 몇 시예요?",
+    "english": "What time is it now?",
+    "japanese": "今何時ですか？",
+    "pronunciation_hiragana": "いまなんじですか？",
+    "pronunciation_romaji": "ima nanji desu ka?"
+  },
+  {
+    "id": 83,
+    "korean": "기다리게 해서 미안해요.",
+    "english": "Sorry for making you wait.",
+    "japanese": "待たせてごめんなさい。",
+    "pronunciation_hiragana": "またせてごめんなさい。",
+    "pronunciation_romaji": "matasete gomen nasai."
+  },
+  {
+    "id": 84,
+    "korean": "조금 늦을 거예요.",
+    "english": "I'll be a little late.",
+    "japanese": "少し遅れます。",
+    "pronunciation_hiragana": "すこしおくれます。",
+    "pronunciation_romaji": "sukoshi okuremasu."
+  },
+  {
+    "id": 85,
+    "korean": "갑시다!",
+    "english": "Let's go!",
+    "japanese": "行きましょう！",
+    "pronunciation_hiragana": "いきましょう！",
+    "pronunciation_romaji": "ikimashou!"
+  },
+  {
+    "id": 86,
+    "korean": "금방 올게요.",
+    "english": "I'll be right back.",
+    "japanese": "すぐ戻ります。",
+    "pronunciation_hiragana": "すぐもどります。",
+    "pronunciation_romaji": "sugu modorimasu."
+  },
+  {
+    "id": 87,
+    "korean": "먼저 가세요.",
+    "english": "Please go ahead.",
+    "japanese": "先に行ってください。",
+    "pronunciation_hiragana": "さきにいってください。",
+    "pronunciation_romaji": "saki ni itte kudasai."
+  },
+  {
+    "id": 88,
+    "korean": "또 봐요.",
+    "english": "See you again.",
+    "japanese": "また会いましょう。",
+    "pronunciation_hiragana": "またあいましょう。",
+    "pronunciation_romaji": "mata aimashou."
+  },
+  {
+    "id": 89,
+    "korean": "감사합니다.",
+    "english": "Thank you.",
+    "japanese": "ありがとうございました。",
+    "pronunciation_hiragana": "ありがとうございました。",
+    "pronunciation_romaji": "arigatou gozaimashita."
+  },
+  {
+    "id": 90,
+    "korean": "신세 많이 졌어요.",
+    "english": "Thank you for everything.",
+    "japanese": "お世話になりました。",
+    "pronunciation_hiragana": "おせわになりました。",
+    "pronunciation_romaji": "osewa ni narimashita."
+  },
+  {
+    "id": 91,
+    "korean": "공항까지 부탁드려요.",
+    "english": "To the airport, please.",
+    "japanese": "空港までお願いします。",
+    "pronunciation_hiragana": "くうこうまでおねがいします。",
+    "pronunciation_romaji": "kuukou made onegai shimasu."
+  },
+  {
+    "id": 92,
+    "korean": "체크인 카운터가 어디예요?",
+    "english": "Where is the check-in counter?",
+    "japanese": "チェックインカウンターはどこですか？",
+    "pronunciation_hiragana": "ちぇっくいんかうんたーはどこですか？",
+    "pronunciation_romaji": "chekkuin kauntaa wa doko desu ka?"
+  },
+  {
+    "id": 93,
+    "korean": "수하물은 이것뿐이에요.",
+    "english": "This is all my luggage.",
+    "japanese": "手荷物はこれだけです。",
+    "pronunciation_hiragana": "てにもつはこれだけです。",
+    "pronunciation_romaji": "tenimotsu wa kore dake desu."
+  },
+  {
+    "id": 94,
+    "korean": "면세점 어디예요?",
+    "english": "Where is the duty-free shop?",
+    "japanese": "免税店はどこですか？",
+    "pronunciation_hiragana": "めんぜいてんはどこですか？",
+    "pronunciation_romaji": "menzeiten wa doko desu ka?"
+  },
+  {
+    "id": 95,
+    "korean": "비행기 몇 시예요?",
+    "english": "What time is the flight?",
+    "japanese": "飛行機は何時ですか？",
+    "pronunciation_hiragana": "ひこうきはなんじですか？",
+    "pronunciation_romaji": "hikouki wa nanji desu ka?"
+  },
+  {
+    "id": 96,
+    "korean": "감사합니다!",
+    "english": "Thank you!",
+    "japanese": "ありがとうございました！",
+    "pronunciation_hiragana": "ありがとうございました！",
+    "pronunciation_romaji": "arigatou gozaimashita!"
+  },
+  {
+    "id": 97,
+    "korean": "또 올게요!",
+    "english": "I'll come again!",
+    "japanese": "また来ます！",
+    "pronunciation_hiragana": "またきます！",
+    "pronunciation_romaji": "mata kimasu!"
+  },
+  {
+    "id": 98,
+    "korean": "즐거웠어요!",
+    "english": "It was fun!",
+    "japanese": "楽しかったです！",
+    "pronunciation_hiragana": "たのしかったです！",
+    "pronunciation_romaji": "tanoshikatta desu!"
+  },
+  {
+    "id": 99,
+    "korean": "조심하세요!",
+    "english": "Take care!",
+    "japanese": "気をつけて！",
+    "pronunciation_hiragana": "きをつけて！",
+    "pronunciation_romaji": "ki wo tsukete!"
+  },
+  {
+    "id": 100,
+    "korean": "안녕히 가세요.",
+    "english": "Goodbye.",
+    "japanese": "さようなら。",
+    "pronunciation_hiragana": "さようなら。",
+    "pronunciation_romaji": "sayounara."
+  }
+]

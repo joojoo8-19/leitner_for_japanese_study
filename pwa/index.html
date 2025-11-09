@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Learn Japanese with Leitner</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <h1>100 Japanese Sentences with Leitner System</h1>
+
+  <div id="lang-buttons">
+    <button data-lang="korean">🇰🇷 Korean</button>
+    <button data-lang="english">🇺🇸 English</button>
+  </div>
+
+  <div id="box-buttons">
+    <button data-box="1">Box 1</button>
+    <button data-box="2">Box 2</button>
+    <button data-box="3">Box 3</button>
+    <button data-box="4">Box 4</button>
+    <button data-box="5">Box 5</button>
+  </div>
+
+  <div id="card-info">
+    <span id="card-number">Card 0 / 0</span>
+    <span id="box-status">Box 1</span>
+  </div>
+
+  <div id="question-card" class="card">
+    <div id="question-lang">🇰🇷 Question</div>
+    <div id="question-text"></div>
+  </div>
+
+  <button id="reveal-answer">Reveal Answer</button>
+
+  <div id="answer-card" class="card hidden">
+    <div id="answer-lang">🇯🇵 Answer</div>
+    <div id="answer-text"></div>
+    <div id="answer-hiragana"></div>
+    <div id="answer-romaji"></div>
+  </div>
+
+  <div id="answer-buttons">
+    <button id="correct">✓ Correct</button>
+    <button id="incorrect">⌧ Incorrect</button>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('service-worker.js')
+            .then(reg => console.log('Service Worker registered', reg))
+            .catch(err => console.log('Service Worker failed', err));
+        });
+      }
+  </script>
+</body>
+</html>
