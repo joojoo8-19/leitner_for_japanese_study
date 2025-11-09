@@ -4,7 +4,7 @@ import json
 from data.card_model import CardModel
 
 # ====== 데이터 로드 ======
-with open("data/cards.json", "r", encoding="utf-8") as f:
+with open("../data/cards.json", "r", encoding="utf-8") as f:
     cards_data = json.load(f)
 
 cards = [
@@ -13,7 +13,7 @@ cards = [
 ]
 
 # 진행도 파일
-PROGRESS_FILE = "data/progress.json"
+PROGRESS_FILE = "../data/progress.json"
 try:
     with open(PROGRESS_FILE, "r", encoding="utf-8") as f:
         progress = json.load(f)

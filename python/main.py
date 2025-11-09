@@ -4,8 +4,8 @@ import random
 from ui import Ui
 from data.card_model import CardModel
 
-CARDS_FILE = "data/cards.json"
-PROGRESS_FILE = "data/progress.json"
+CARDS_FILE = "../data/cards.json"
+PROGRESS_FILE = "../data/progress.json"
 
 with open(CARDS_FILE, encoding="utf-8") as file:
     cards = json.load(file)
