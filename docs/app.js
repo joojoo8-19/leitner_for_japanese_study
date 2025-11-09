@@ -27,14 +27,6 @@ async function loadCards() {
   }
 }
 
-// 초기화 함수
-async function init() {
-  await loadCards();
-  console.log('Cards loaded:', cards);
-  console.log('today cards: ', todayCards)
-  // 여기에 cards를 사용하는 다른 코드 작성
-}
-
 const questionText = document.getElementById('question-text');
 const answerArea = document.getElementById('answer-card');
 const answerJapanese = document.getElementById('answer-text');
@@ -81,6 +73,12 @@ function nextCard() {
   }
 }
 
+// 초기화 함수
+async function init() {
+  await loadCards();
+  showCard(); // fix : "no cards to study" alert show up when the page loads for the first time
+}
+
 function showAnswer(){
   answerArea.classList.remove('hidden');
   controls.classList.remove('hidden');
@@ -113,7 +111,6 @@ incorrectBtn.addEventListener('click', () => {
 
 document.addEventListener("DOMContentLoaded", () => {
   init();
-  showCard();
 });
 
 // 박스 버튼 클릭
